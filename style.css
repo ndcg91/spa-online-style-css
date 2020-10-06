@@ -6277,108 +6277,32 @@ p.image_container>span {
   }
 
  
-  .image4-text1 {
-    left: 115px;
+  .image4-text1, .image5-text1, .image6-text1, .image7-text1 {
+    left: 67px;
   }
 
-  .image4-text2 {
-    left: 375px;
+  .image4-text2, .image5-text2, .image6-text2, .image7-text2 {
+    left: 245px;
   }
 
-  .image4-text3 {
-    left: 90px;
+  .image4-text3, .image5-text3, .image6-text3, .image7-text3 {
+    left: 60px;
   }
 
-  .image4-text4 {
-    left: 380px;
-    width: 200px;
+  .image4-text4, .image5-text4, .image6-text4, .image7-text4  {
+    left: 255px;
+    width: 140px;
   }
 
-  .image4-text5 {
-    left: 400px;
-    width: 200px;
-    top: 170px;
-  }
-
-
-  .image5-text1 {
-    left: 115px;
-  }
-
-  .image5-text2 {
-    left: 385px;
-  }
-
-  .image5-text3 {
-    left: 90px;
-    width: 170px;
-  }
-
-  .image5-text4 {
-    left: 390px;
-    width: 190px;
-  }
-
-  .image5-text5 {
-    left: 400px;
-    width: 190px;
-    top: 170px;
-  }
-
-  .image6-text1, .image6-text2 {
-    top: 29px;
+  .image4-text5, .image5-text5, .image6-text5 {
+    left: 300px;
+    top: 124px;
   }
 
 
-  .image6-text1 {
-    left: 115px;
-  }
-
-  .image6-text2 {
-    left: 385px;
-  }
-
-  .image6-text3 {
-    left: 90px;
-    width: 170px;
-  }
-
-  .image6-text4 {
-    left: 390px;
-    width: 190px;
-  }
-
-  .image6-text5 {
-    left: 400px;
-    width: 190px;
-    top: 170px;
-  }
 
   .image7-text1, .image7-text2 {
     top: 29px;
-  }
-
-
-  .image7-text3, .image7-text4{
-    top: 100px;
-  }
-
-  .image7-text1 {
-    left: 105px;
-  }
-
-  .image7-text2 {
-    left: 390px;
-  }
-
-  .image7-text3 {
-    left: 90px;
-    width: 170px;
-  }
-
-  .image7-text4 {
-    left: 390px;
-    width: 190px;
   }
 
   .image7-text5 {

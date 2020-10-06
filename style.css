@@ -6114,9 +6114,29 @@ p.image_container>span {
 @media (min-width: 992px) { 
  
 }
- 
-/* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
+  .image_container-2 {
+    position: relative;
+    width: 700px;
+    margin: auto;
+    display: flex;
+  }
+  .image_container-2 span {
+    position: absolute;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    font-family: 'Novel Sans Rd Pro';
+  }
+  /*Text styles*/
+  .image2-text1, .image2-text2 {
+    font-family: 'NovelSansRdPro-SemiBold';
+    top: 40px;
+    font-size: 25px;
+  }
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) { 
   .image_container-2 {
     position: relative;
     width: 1000px;

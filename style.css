@@ -6123,10 +6123,10 @@ p.image_container>span {
     margin: auto;
     display: flex;
   }
-  /*Text styles*/
-  .image2-text1,.image2-text2,.image2-text3,.image2-text4,.image2-text5,.image2-text6,.image2-text7,.image2-text8,.image2-text9,.image2-text10{
+  .image_container-2 span {
     position: absolute;
   }
+  /*Text styles*/
   .image2-text1, .image2-text2 {
     font-family: 'NovelSansRdPro-SemiBold';
     top: 43px;

@@ -6479,6 +6479,8 @@ p.image_container>span {
     text-align: center;
     font-family: 'Novel Sans Rd Pro';
   }
+
+  
 }
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
@@ -7626,6 +7628,31 @@ p.image_container>span {
     text-align: center;
     font-family: 'Novel Sans Rd Pro';
   }
+
+
+  .image_container_nl .image2-text1 {
+    left: 71px;
+  }
+  .image_container_nl .image2-text1{
+    left: 415px;
+  }
+  .image_container_nl .image2-text3{
+    width: 200px;
+    left: 25px;
+}
+.image_container_nl .image2-text4{
+  left: 149px;
+}
+.image_container_nl .image2-text5{
+  left: 137px;
+}
+.image_container_nl .image2-text7{
+  width: 150px;
+  left: 155px;
+}
+.image_container_nl .image2-text8{
+  left: 105px;
+}
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) { 

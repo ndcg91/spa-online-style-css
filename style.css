@@ -6387,6 +6387,12 @@ p.image_container>span {
     top: 170px;
   }
 
+  .image8-text1, .image8-text2{
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
   .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span {
     position: absolute;
     text-align: center;

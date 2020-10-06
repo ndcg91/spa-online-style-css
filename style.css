@@ -7856,6 +7856,19 @@ p.image_container>span {
   }
 
 
+  .image4-text3
+  , .image4-text4
+  , .image5-text3
+  , .image5-text4
+  , .image6-text3
+  , .image6-text4
+  , .image7-text3
+  , .image7-text4
+  , .image8-text3
+  , .image8-text4
+  {
+    top: 155px;
+  }
 
   .image4-text1
   , .image5-text1

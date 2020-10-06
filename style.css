@@ -7930,7 +7930,7 @@ p.image_container>span {
   }
 
   .image6-text5 {
-    width: 190px;
+    width: 265px;
   }
 
 
@@ -7945,30 +7945,19 @@ p.image_container>span {
 
   .image7-text4 {
     left: 390px;
-    width: 190px;
+    width: 265px;
   }
 
   .image7-text5 {
     left: 120px;
-    width: 190px;
+    width: 265px;
     top: 210px;
   }
 
   .image7-text6 {
     left: 420px;
-    width: 190px;
+    width: 265px;
     top: 250px;
-  }
-
-  .image8-text1, .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
-
-  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image8-text3, .image8-text4{

@@ -6225,8 +6225,36 @@ p.image_container>span {
     left: 128px;
     width: 130px;
   }
+<<<<<<< Updated upstream
 
   
+=======
+  .image2-text10{
+    top: 77px;
+    left: 360px;
+    width: 215px;
+  }
+  .image2-text11{
+    top: 203px;
+    left: 418px;
+    width: 190px;
+  }
+  .image2-text12{
+    top: 295px;
+    left: 466px;
+    width: 190px;
+  }
+.image2-text13{
+  top: 382px;
+    left: 505px;
+    width: 190px;
+}
+.image2-text14{
+  top: 471px;
+  left: 477px;
+  width: 190px;
+}
+>>>>>>> Stashed changes
 
   .image-container-1 span, .image-container-3 span {
     position: absolute;

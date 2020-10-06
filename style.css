@@ -6121,16 +6121,10 @@ p.image_container>span {
     margin: auto;
     display: flex;
   }
-  .image_container-2 span {
-    position: absolute;
-    font-size: 14px;
-    line-height: 19px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
-  }
+  
   /*Text styles*/
   .image2-text1, .image2-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'NovelSansRdPro-SemiBold';
     font-size: 17px;
     top: 29px;
   }
@@ -6144,6 +6138,16 @@ p.image_container>span {
     top: 75px;
     width: 186px;
     left: 34px;
+  }
+
+
+
+  .image_container-2 span {
+    position: absolute;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    font-family: 'Novel Sans Rd Pro';
   }
 }
 /* Extra large devices (large desktops, 1200px and up) */

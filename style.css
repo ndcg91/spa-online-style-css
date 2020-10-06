@@ -7782,15 +7782,15 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 26px !important;
     top: 44px;
   }
-  .image2-text1{
+  .image2-text1, .image3-text1{
     left: 121px;
   }
-  .image2-text2{
+  .image2-text2, .image3-text2{
     left: 644px;
   }
   .image2-text3{
@@ -7858,24 +7858,16 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    top: 120px;
-  }
-
-  .image3-text1 {
-    left: 80px;
-  }
-
-  .image3-text2 {
-    left: 430px;
+    top: 158px;
   }
 
   .image3-text3 {
-    left: 70px;
+    left: 93px;
   }
 
   .image3-text4 {
-    left: 410px;
-    width: 200px;
+    left: 650px;
+    width: 300px;
   }
 
   .image4-text1, .image4-text2 {

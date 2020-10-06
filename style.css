@@ -6401,17 +6401,6 @@ p.image_container>span {
     top: 230px;
   }
 
-  .image8-text1, .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
-
-  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-  }
-
   .image8-text3, .image8-text4{
     top: 90px;
   }
@@ -6789,16 +6778,6 @@ p.image_container>span {
     top: 230px;
   }
 
-  .image8-text1, .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
-
-  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-  }
 
   .image8-text3, .image8-text4{
     top: 90px;
@@ -7172,17 +7151,6 @@ p.image_container>span {
     left: 420px;
     width: 190px;
     top: 230px;
-  }
-
-  .image8-text1, .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
-
-  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image8-text3, .image8-text4{
@@ -7777,10 +7745,17 @@ p.image_container>span {
     font-size: 26px !important;
     top: 44px;
   }
-  .image2-text1, .image3-text1{
+  .image2-text1
+  , .image3-text1
+  , .image8-text1
+  {
     left: 121px;
   }
-  .image2-text2, .image3-text2{
+
+  .image2-text2
+  , .image3-text2
+  , .image8-text2
+  {
     left: 644px;
   }
   .image2-text3{
@@ -7874,7 +7849,6 @@ p.image_container>span {
   , .image5-text1
   , .image6-text1
   , .image7-text1
-  , .image8-text1
   {
     left: 185px;
   }
@@ -7883,7 +7857,6 @@ p.image_container>span {
   , .image5-text2
   , .image6-text2
   , .image7-text2
-  , .image8-text2
   {
     left: 593px;
   }
@@ -7896,14 +7869,19 @@ p.image_container>span {
 
   .image4-text4
   , .image5-text4
-  , .image6-text4 {
+  , .image6-text4
+  , .image7-text4 
+  {
     left: 573px;
     width: 300px;
   }
 
   .image4-text5
   , .image5-text5 
-  , .image6-text5 {
+  , .image6-text5
+  , .image7-text5
+
+  {
     left: 648px;
     top: 271px;
   }
@@ -7925,7 +7903,7 @@ p.image_container>span {
   }
 
   .image6-text3 {
-    width: 170px;
+    width: 250px;
   }
 
   .image6-text4 {
@@ -7936,31 +7914,20 @@ p.image_container>span {
     width: 265px;
   }
 
-
-  .image7-text3, .image7-text4{
-    top: 120px;
-  }
-
   .image7-text3 {
-    left: 90px;
-    width: 170;
-  }
-
-  .image7-text4 {
-    left: 390px;
-    width: 265px;
+    width: 250px;
   }
 
   .image7-text5 {
-    left: 120px;
-    width: 265px;
-    top: 210px;
+    top: 301px;
+    width: 200px;
+    left: 250px;
   }
 
   .image7-text6 {
-    left: 420px;
-    width: 265px;
-    top: 250px;
+    top: 360px;
+    width: 280px;
+    left: 677px;
   }
 
   .image8-text3, .image8-text4{

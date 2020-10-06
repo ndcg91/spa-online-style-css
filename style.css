@@ -6088,16 +6088,15 @@ p.image_container>span {
 @font-face {
   font-family: Novel Sans Rd Pro;
   src: url("./NovelSansRdPro-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-  font-family: NovelSansRdPro-Regular;
-  src: url("./NovelSansRdPro-Regular.otf") format("opentype");
-}
-
-@font-face {
-  font-family: NovelSansRdPro-SemiBold;
+  font-family: Novel Sans Rd Pro;
   src: url("./NovelSansRdPro-SemiBold.otf") format("opentype");
+  font-weight: bold;
+  font-style: bold;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -6112,12 +6111,13 @@ p.image_container>span {
   
   /*Text styles*/
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
-    font-family: 'NovelSansRdPro-SemiBold';
+    font-family: 'Novel Sans Rd Pro';
+    font-weight: bold;
     font-size: 25px;
   }
 
   .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
-    font-family: 'NovelSansRdPro-Regular';
+    font-family: 'Novel Sans Rd Pro';
     font-size: 14px;
   }
 
@@ -6485,12 +6485,13 @@ p.image_container>span {
   
   /*Text styles*/
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
-    font-family: 'NovelSansRdPro-SemiBold';
+    font-family: 'Novel Sans Rd Pro';
+    font-weight: bold;
     font-size: 25px;
   }
 
   .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
-    font-family: 'NovelSansRdPro-Regular';
+    font-family: 'Novel Sans Rd Pro';
     font-size: 14px;
   }
 
@@ -6858,12 +6859,13 @@ p.image_container>span {
   
   /*Text styles*/
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
-    font-family: 'NovelSansRdPro-SemiBold';
+    font-family: 'Novel Sans Rd Pro';
+    font-weight: bold;
     font-size: 25px;
   }
 
   .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
-    font-family: 'NovelSansRdPro-Regular';
+    font-family: 'Novel Sans Rd Pro';
     font-size: 14px;
   }
 
@@ -7227,7 +7229,8 @@ p.image_container>span {
   
   /*Text styles*/
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
-    font-family: 'NovelSansRdPro-SemiBold';
+    font-family: 'Novel Sans Rd Pro';
+    font-weight: bold;
     font-size: 25px;
   }
 
@@ -7666,7 +7669,7 @@ p.image_container>span {
   }
 
   .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
-    font-family: 'NovelSansRdPro-Regular';
+    font-family: 'Novel Sans Rd Pro';
     font-size: 28px;
   }
 

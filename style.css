@@ -6230,6 +6230,26 @@ p.image_container>span {
     left: 409px;
     width: 212px;
   }
+  .image2-text11{
+    top: 203px;
+    left: 418px;
+    width: 190px;
+  }
+  .image2-text12{
+    top: 295px;
+    left: 466px;
+    width: 190px;
+  }
+  .image2-text13{
+    top: 382px;
+    left: 505px;
+    width: 190px;
+  }
+  .image2-text14{
+    top: 471px;
+    left: 477px;
+    width: 190px;
+  }
 
   .image3-text1, .image3-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;

@@ -6287,16 +6287,18 @@ p.image_container>span {
 
   .image4-text3, .image5-text3, .image6-text3, .image7-text3 {
     left: 60px;
+    width: 130px;
   }
 
   .image4-text4, .image5-text4, .image6-text4, .image7-text4  {
-    left: 255px;
-    width: 140px;
+    left: 262px;
+    width: 130px;
   }
 
   .image4-text5, .image5-text5, .image6-text5 {
-    left: 300px;
+    left: 273px;
     top: 124px;
+    width: 135px;
   }
 
 

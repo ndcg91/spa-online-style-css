@@ -6107,12 +6107,804 @@ p.image_container>span {
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {  
- 
+  .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    line-height: 1;
+  }
+  
+  /*Text styles*/
+  .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
+    font-family: 'NovelSansRdPro-SemiBold';
+    font-size: 25px;
+  }
+
+  .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
+    font-family: 'NovelSansRdPro-Regular';
+    font-size: 14px;
+  }
+
+  .image1-text1, .image1-text2 {
+    top: 15px;
+    width: 240px;
+  }
+
+  .image1-text5, .image1-text6 {
+    top: 350px;
+    width: 240px;
+  }
+
+  .image1-text2, .image1-text6 {
+    left: 400px;
+  }
+
+  .image1-text1, .image1-text5 {
+    left: 70px;
+  }
+
+  .image1-text3, .image1-text4 {
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text3 {
+    top: 135px;
+  }
+
+  .image1-text4 {
+    top: 240px;
+  }
+
+  .image1-text7 {
+    top: 420px;
+    width: 270px;
+    left: 70px;
+  }
+
+  .image1-text8 {
+    top: 480px;
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text9 {
+    top: 640px;
+    width: 155px;
+  }
+
+  .image2-text1, .image2-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+  .image2-text1{
+    left: 77px;
+  }
+  .image2-text2{
+    left: 409px;
+  }
+  .image2-text3{
+    top: 75px;
+    width: 186px;
+    left: 34px;
+  }
+  .image2-text4{
+    top: 175px;
+    left: 135px;
+  }
+  .image2-text5{
+    top: 230px;
+    left: 120px;
+  }
+  .image2-text6{
+    top: 285px;
+    left: 145px;
+  }
+  .image2-text7{
+    top: 337px;
+    left: 170px;
+    width: 125px;
+  }
+  .image2-text8{
+    top: 412px;
+    left: 110px;
+    width: 200px;
+  }
+  .image2-text9{
+    top: 505px;
+    left: 128px;
+    width: 130px;
+  }
+  .image2-text10{
+    top: 71px;
+    left: 409px;
+    width: 212px;
+  }
+  .image2-text11{
+    top: 203px;
+    left: 418px;
+    width: 190px;
+  }
+  .image2-text12{
+    top: 295px;
+    left: 466px;
+    width: 190px;
+  }
+  .image2-text13{
+    top: 382px;
+    left: 505px;
+    width: 190px;
+  }
+  .image2-text14{
+    top: 471px;
+    left: 477px;
+    width: 190px;
+  }
+
+  .image3-text1, .image3-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image3-text3, .image3-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image3-text1 {
+    left: 80px;
+  }
+
+  .image3-text2 {
+    left: 430px;
+  }
+
+  .image3-text3 {
+    left: 70px;
+  }
+
+  .image3-text4 {
+    left: 410px;
+    width: 200px;
+  }
+
+  .image4-text1, .image4-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image4-text3, .image4-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image4-text1 {
+    left: 115px;
+  }
+
+  .image4-text2 {
+    left: 375px;
+  }
+
+  .image4-text3 {
+    left: 90px;
+  }
+
+  .image4-text4 {
+    left: 380px;
+    width: 200px;
+  }
+
+  .image4-text5 {
+    left: 400px;
+    width: 200px;
+    top: 170px;
+  }
+
+  .image5-text1, .image5-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image5-text3, .image5-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image5-text1 {
+    left: 115px;
+  }
+
+  .image5-text2 {
+    left: 385px;
+  }
+
+  .image5-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image5-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image5-text5 {
+    left: 400px;
+    width: 190px;
+    top: 170px;
+  }
+
+  .image6-text1, .image6-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image6-text3, .image6-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image6-text1 {
+    left: 115px;
+  }
+
+  .image6-text2 {
+    left: 385px;
+  }
+
+  .image6-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image6-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image6-text5 {
+    left: 400px;
+    width: 190px;
+    top: 170px;
+  }
+
+  .image7-text1, .image7-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+  }
+
+  .image7-text3, .image7-text4{
+    top: 100px;
+  }
+
+  .image7-text1 {
+    left: 105px;
+  }
+
+  .image7-text2 {
+    left: 390px;
+  }
+
+  .image7-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image7-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image7-text5 {
+    left: 120px;
+    width: 190px;
+    top: 190px;
+  }
+
+  .image7-text6 {
+    left: 420px;
+    width: 190px;
+    top: 230px;
+  }
+
+  .image8-text1, .image8-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+  }
+
+  .image8-text3, .image8-text4{
+    top: 90px;
+  }
+
+  .image8-text1 {
+    left: 75px;
+  }
+
+  .image8-text2 {
+    left: 390px;
+  }
+
+  .image8-text3 {
+    left: 80px;
+    width: 170;
+  }
+
+  .image8-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image8-text5 {
+    left: 420px;
+    width: 210px;
+    top: 165px;
+  }
+
+  .image8-text6 {
+    left: 470px;
+    width: 170px;
+    top: 245px;
+  }
+
+  .image8-text7 {
+    left: 480px;
+    width: 190px;
+    top: 305px;
+  }
+
+  .image8-text8 {
+    left: 490px;
+    width: 175px;
+    top: 425px;
+  }
+
+  .image8-text9 {
+    left: 470px;
+    width: 180px;
+    top: 540px;
+  }
+
+  .image_container-1 span, .image_container-3 span, .image_container-4 span, .image_container-5 span, .image_container-6 span, .image_container-7 span, .image_container-8 span {
+    position: absolute;
+    text-align: center;
+  }
+
+  .image_container-1 span {
+    color: #333;
+  }
+
+  .image_container-2 span {
+    position: absolute;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    font-family: 'Novel Sans Rd Pro';
+  }
+}
 }
  
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
- 
+  .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    line-height: 1;
+  }
+  
+  /*Text styles*/
+  .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
+    font-family: 'NovelSansRdPro-SemiBold';
+    font-size: 25px;
+  }
+
+  .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
+    font-family: 'NovelSansRdPro-Regular';
+    font-size: 14px;
+  }
+
+  .image1-text1, .image1-text2 {
+    top: 15px;
+    width: 240px;
+  }
+
+  .image1-text5, .image1-text6 {
+    top: 350px;
+    width: 240px;
+  }
+
+  .image1-text2, .image1-text6 {
+    left: 400px;
+  }
+
+  .image1-text1, .image1-text5 {
+    left: 70px;
+  }
+
+  .image1-text3, .image1-text4 {
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text3 {
+    top: 135px;
+  }
+
+  .image1-text4 {
+    top: 240px;
+  }
+
+  .image1-text7 {
+    top: 420px;
+    width: 270px;
+    left: 70px;
+  }
+
+  .image1-text8 {
+    top: 480px;
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text9 {
+    top: 640px;
+    width: 155px;
+  }
+
+  .image2-text1, .image2-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+  .image2-text1{
+    left: 77px;
+  }
+  .image2-text2{
+    left: 409px;
+  }
+  .image2-text3{
+    top: 75px;
+    width: 186px;
+    left: 34px;
+  }
+  .image2-text4{
+    top: 175px;
+    left: 135px;
+  }
+  .image2-text5{
+    top: 230px;
+    left: 120px;
+  }
+  .image2-text6{
+    top: 285px;
+    left: 145px;
+  }
+  .image2-text7{
+    top: 337px;
+    left: 170px;
+    width: 125px;
+  }
+  .image2-text8{
+    top: 412px;
+    left: 110px;
+    width: 200px;
+  }
+  .image2-text9{
+    top: 505px;
+    left: 128px;
+    width: 130px;
+  }
+  .image2-text10{
+    top: 71px;
+    left: 409px;
+    width: 212px;
+  }
+  .image2-text11{
+    top: 203px;
+    left: 418px;
+    width: 190px;
+  }
+  .image2-text12{
+    top: 295px;
+    left: 466px;
+    width: 190px;
+  }
+  .image2-text13{
+    top: 382px;
+    left: 505px;
+    width: 190px;
+  }
+  .image2-text14{
+    top: 471px;
+    left: 477px;
+    width: 190px;
+  }
+
+  .image3-text1, .image3-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image3-text3, .image3-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image3-text1 {
+    left: 80px;
+  }
+
+  .image3-text2 {
+    left: 430px;
+  }
+
+  .image3-text3 {
+    left: 70px;
+  }
+
+  .image3-text4 {
+    left: 410px;
+    width: 200px;
+  }
+
+  .image4-text1, .image4-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image4-text3, .image4-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image4-text1 {
+    left: 115px;
+  }
+
+  .image4-text2 {
+    left: 375px;
+  }
+
+  .image4-text3 {
+    left: 90px;
+  }
+
+  .image4-text4 {
+    left: 380px;
+    width: 200px;
+  }
+
+  .image4-text5 {
+    left: 400px;
+    width: 200px;
+    top: 170px;
+  }
+
+  .image5-text1, .image5-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image5-text3, .image5-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image5-text1 {
+    left: 115px;
+  }
+
+  .image5-text2 {
+    left: 385px;
+  }
+
+  .image5-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image5-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image5-text5 {
+    left: 400px;
+    width: 190px;
+    top: 170px;
+  }
+
+  .image6-text1, .image6-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image6-text3, .image6-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image6-text1 {
+    left: 115px;
+  }
+
+  .image6-text2 {
+    left: 385px;
+  }
+
+  .image6-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image6-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image6-text5 {
+    left: 400px;
+    width: 190px;
+    top: 170px;
+  }
+
+  .image7-text1, .image7-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+  }
+
+  .image7-text3, .image7-text4{
+    top: 100px;
+  }
+
+  .image7-text1 {
+    left: 105px;
+  }
+
+  .image7-text2 {
+    left: 390px;
+  }
+
+  .image7-text3 {
+    left: 90px;
+    width: 170px;
+  }
+
+  .image7-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image7-text5 {
+    left: 120px;
+    width: 190px;
+    top: 190px;
+  }
+
+  .image7-text6 {
+    left: 420px;
+    width: 190px;
+    top: 230px;
+  }
+
+  .image8-text1, .image8-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+  }
+
+  .image8-text3, .image8-text4{
+    top: 90px;
+  }
+
+  .image8-text1 {
+    left: 75px;
+  }
+
+  .image8-text2 {
+    left: 390px;
+  }
+
+  .image8-text3 {
+    left: 80px;
+    width: 170;
+  }
+
+  .image8-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image8-text5 {
+    left: 420px;
+    width: 210px;
+    top: 165px;
+  }
+
+  .image8-text6 {
+    left: 470px;
+    width: 170px;
+    top: 245px;
+  }
+
+  .image8-text7 {
+    left: 480px;
+    width: 190px;
+    top: 305px;
+  }
+
+  .image8-text8 {
+    left: 490px;
+    width: 175px;
+    top: 425px;
+  }
+
+  .image8-text9 {
+    left: 470px;
+    width: 180px;
+    top: 540px;
+  }
+
+  .image_container-1 span, .image_container-3 span, .image_container-4 span, .image_container-5 span, .image_container-6 span, .image_container-7 span, .image_container-8 span {
+    position: absolute;
+    text-align: center;
+  }
+
+  .image_container-1 span {
+    color: #333;
+  }
+
+  .image_container-2 span {
+    position: absolute;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    font-family: 'Novel Sans Rd Pro';
+  }
+}
 }
 @media (min-width: 1200px) { 
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {

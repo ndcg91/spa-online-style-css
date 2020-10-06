@@ -6115,14 +6115,73 @@ p.image_container>span {
  
 }
 @media (min-width: 1200px) { 
-  .image_container-2 {
+  .image-container1, .image_container-2 {
     position: relative;
     width: 700px;
     margin: auto;
     display: flex;
+    line-height: 1;
   }
   
   /*Text styles*/
+  .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
+    font-family: 'NovelSansRdPro-SemiBold';
+    font-size: 25px;
+  }
+
+  .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
+    font-family: 'NovelSansRdPro-Regular';
+    font-size: 14px;
+  }
+
+  .image1-text1, .image1-text2 {
+    top: 15px;
+    width: 240px;
+  }
+
+  .image1-text5, .image1-text6 {
+    top: 350px;
+    width: 240px;
+  }
+
+  .image1-text2, .image1-text6 {
+    left: 400px;
+  }
+
+  .image1-text1, .image1-text5 {
+    left: 70px;
+  }
+
+  .image1-text3, .image1-text4 {
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text3 {
+    top: 135px;
+  }
+
+  .image1-text4 {
+    top: 240px;
+  }
+
+  .image1-text7 {
+    top: 420px;
+    width: 270px;
+    left: 70px;
+  }
+
+  .image1-text8 {
+    top: 480px;
+    width: 155px;
+    left: 260px;
+  }
+
+  .image1-text9 {
+    top: 640px;
+    width: 155px;
+  }
+
   .image2-text1, .image2-text2 {
     font-family: 'NovelSansRdPro-SemiBold';
     font-size: 17px;
@@ -6140,7 +6199,9 @@ p.image_container>span {
     left: 34px;
   }
 
-
+  .image-container-2 span {
+    position: absolute;
+  }
 
   .image_container-2 span {
     position: absolute;

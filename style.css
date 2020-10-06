@@ -6360,20 +6360,12 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image7-text1, .image7-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
     top: 29px;
   }
 
-  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-  }
 
   .image7-text3, .image7-text4{
     top: 100px;
@@ -6756,20 +6748,12 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image7-text1, .image7-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
     top: 29px;
   }
 
-  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-  }
 
   .image7-text3, .image7-text4{
     top: 100px;
@@ -7150,19 +7134,10 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image7-text1, .image7-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
     top: 29px;
-  }
-
-  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image7-text3, .image7-text4{
@@ -7926,15 +7901,15 @@ p.image_container>span {
   }
 
   .image6-text3, .image6-text4 {
-    top: 120px;
+    top: 155px;
   }
 
   .image6-text3 {
-    width: 170;
+    width: 170px;
   }
 
   .image6-text4 {
-    width: 190px;
+    width: 250px;  
   }
 
   .image6-text5 {

@@ -6432,7 +6432,70 @@ p.image_container>span {
     top: 230px;
   }
 
-  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span, .image-container-7 span {
+  .image8-text1, .image8-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+  }
+
+  .image8-text3, .image8-text4{
+    top: 90px;
+  }
+
+  .image8-text1 {
+    left: 75px;
+  }
+
+  .image8-text2 {
+    left: 390px;
+  }
+
+  .image8-text3 {
+    left: 80px;
+    width: 170;
+  }
+
+  .image8-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image8-text5 {
+    left: 420px;
+    width: 210px;
+    top: 165px;
+  }
+
+  .image8-text6 {
+    left: 470px;
+    width: 170px;
+    top: 245px;
+  }
+
+  .image8-text7 {
+    left: 480px;
+    width: 190px;
+    top: 305px;
+  }
+
+  .image8-text8 {
+    left: 490px;
+    width: 175px;
+    top: 425px;
+  }
+
+  .image8-text9 {
+    left: 470px;
+    width: 180px;
+    top: 540px;
+  }
+
+  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span, .image-container-7 span, .image-container-8 span {
     position: absolute;
     text-align: center;
   }

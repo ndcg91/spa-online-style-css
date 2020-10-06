@@ -6511,7 +6511,7 @@ p.image_container>span {
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) { 
-  .image_container1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
+  .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 700px;
     margin: auto;

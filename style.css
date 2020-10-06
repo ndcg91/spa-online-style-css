@@ -6115,7 +6115,7 @@ p.image_container>span {
  
 }
 @media (min-width: 1200px) { 
-  .image-container1, .image_container-2, .image-container-3, .image-container-4, .image-container-5, .image-container-6, .image-container-7, .image-container-8 {
+  .image-container1, .image_container-2, .image-container_3, .image-container_4, .image-container_5, .image-container_6, .image-container_7, .image-container_8 {
     position: relative;
     width: 700px;
     margin: auto;
@@ -6495,7 +6495,7 @@ p.image_container>span {
     top: 540px;
   }
 
-  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span, .image-container-7 span, .image-container-8 span {
+  .image-container_1 span, .image-container_3 span, .image-container_4 span, .image-container_5 span, .image-container_6 span, .image-container_7 span, .image-container_8 span {
     position: absolute;
     text-align: center;
   }
@@ -6510,7 +6510,7 @@ p.image_container>span {
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) { 
-  .image-container1, .image_container-2, .image-container-3, .image-container-4, .image-container-5, .image-container-6, .image-container-7, .image-container-8 {
+  .image-container1, .image_container-2, .image-container_3, .image-container_4, .image-container_5, .image-container_6, .image-container_7, .image-container_8 {
     position: relative;
     width: 700px;
     margin: auto;
@@ -6890,7 +6890,7 @@ p.image_container>span {
     top: 540px;
   }
 
-  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span, .image-container-7 span, .image-container-8 span {
+  .image-container_1 span, .image-container_3 span, .image-container_4 span, .image-container_5 span, .image-container_6 span, .image-container_7 span, .image-container_8 span {
     position: absolute;
     text-align: center;
   }

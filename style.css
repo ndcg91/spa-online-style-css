@@ -6332,7 +6332,7 @@ p.image_container>span {
   }
 
   .image5-text2 {
-    left: 375px;
+    left: 385px;
   }
 
   .image5-text3 {
@@ -6351,7 +6351,43 @@ p.image_container>span {
     top: 170px;
   }
 
-  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span {
+  .image6-text1, .image6-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image6-text3, .image6-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image6-text1 {
+    left: 115px;
+  }
+
+  .image6-text2 {
+    left: 385px;
+  }
+
+  .image6-text3 {
+    left: 90px;
+    width: 170;
+  }
+
+  .image6-text4 {
+    left: 390px;
+    width: 190px;
+  }
+
+  .image6-text5 {
+    left: 400px;
+    width: 190px;
+    top: 170px;
+  }
+
+  .image-container-1 span, .image-container-3 span, .image-container-4 span, .image-container-5 span, .image-container-6 span {
     position: absolute;
     text-align: center;
   }

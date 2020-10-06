@@ -6255,8 +6255,44 @@ p.image_container>span {
     width: 200px;
   }
 
-  .image-container-1 span, .image-container-3 span {
+  .image4-text1, .image4-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image4-text3, .image4-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image4-text1 {
+    left: 80px;
+  }
+
+  .image4-text2 {
+    left: 430px;
+  }
+
+  .image4-text3 {
+    left: 70px;
+  }
+
+  .image4-text4 {
+    left: 410px;
+    width: 200px;
+  }
+
+  .image4-text5 {
+    left: 420px;
+    width: 200px;
+    top: 170px;
+  }
+
+  .image-container-1 span, .image-container-3 span, .image-container-4 span {
     position: absolute;
+    text-align: center;
   }
 
   .image_container-2 span {

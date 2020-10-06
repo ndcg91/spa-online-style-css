@@ -7776,7 +7776,8 @@ p.image_container>span {
   , .image7-text1
   , .image7-text2
   , .image8-text1
-  , .image8-text2 {
+  , .image8-text2
+  {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 26px !important;
     top: 44px;
@@ -7860,28 +7861,54 @@ p.image_container>span {
   }
 
 
-  .image4-text3, .image4-text4, .image5-text3, .image5-text4, .image6-text1, .image6-text2 {
+  .image4-text3
+  , .image4-text4
+  , .image5-text3
+  , .image5-text4
+  , .image6-text1
+  , .image6-text2
+  , .image7-text1
+  , .image7-text2
+  , .image8-text1
+  , .image8-text2
+  {
     top: 155px;
   }
 
-  .image4-text1, .image5-text1, .image6-text1{
+  .image4-text1
+  , .image5-text1
+  , .image6-text1
+  , .image7-text1
+  , .image8-text1
+  {
     left: 185px;
   }
 
-  .image4-text2 , .image5-text2, .image6-text2{
+  .image4-text2 
+  , .image5-text2
+  , .image6-text2
+  , .image7-text2
+  , .image8-text2
+  {
     left: 593px;
   }
 
-  .image4-text3 , .image5-text3, .image6-text3{
+  .image4-text3 
+  , .image5-text3
+  , .image6-text3{
     left: 157px;
   }
 
-  .image4-text4, .image5-text4, .image6-text4 {
+  .image4-text4
+  , .image5-text4
+  , .image6-text4 {
     left: 573px;
     width: 300px;
   }
 
-  .image4-text5,  .image5-text5 , .image6-text5 {
+  .image4-text5
+  , .image5-text5 
+  , .image6-text5 {
     left: 648px;
     top: 271px;
   }
@@ -7902,51 +7929,21 @@ p.image_container>span {
     top: 120px;
   }
 
-  .image6-text1 {
-    left: 115px;
-  }
-
-  .image6-text2 {
-    left: 385px;
-  }
-
   .image6-text3 {
-    left: 90px;
     width: 170;
   }
 
   .image6-text4 {
-    left: 390px;
     width: 190px;
   }
 
   .image6-text5 {
-    left: 400px;
     width: 190px;
-    top: 190px;
   }
 
-  .image7-text1, .image7-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 49px;
-  }
-
-  .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-  }
 
   .image7-text3, .image7-text4{
     top: 120px;
-  }
-
-  .image7-text1 {
-    left: 105px;
-  }
-
-  .image7-text2 {
-    left: 390px;
   }
 
   .image7-text3 {

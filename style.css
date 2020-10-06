@@ -6262,8 +6262,6 @@ p.image_container>span {
   
 
   .image4-text3, .image4-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -6657,8 +6655,6 @@ p.image_container>span {
 
 
   .image4-text3, .image4-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7052,8 +7048,6 @@ p.image_container>span {
 
 
   .image4-text3, .image4-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7444,8 +7438,6 @@ p.image_container>span {
   }
 
   .image4-text3, .image4-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7819,27 +7811,25 @@ p.image_container>span {
   }
 
   .image3-text3 {
-    left: 93px;
+    left: 216px;
   }
 
   .image3-text4 {
-    left: 650px;
-    width: 300px;
+    left: 600px;
+    width: 250px;
   }
 
 
   .image4-text3, .image4-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-    top: 120px;
+    top: 153px;
   }
 
   .image4-text1 {
-    left: 115px;
+    left: 185px;
   }
 
   .image4-text2 {
-    left: 375px;
+    left: 593px;
   }
 
   .image4-text3 {

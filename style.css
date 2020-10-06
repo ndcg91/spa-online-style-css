@@ -6123,7 +6123,7 @@ p.image_container>span {
   }
   .image_container-2 span {
     position: absolute;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 19px;
     text-align: center;
     font-family: 'Novel Sans Rd Pro';
@@ -6138,7 +6138,12 @@ p.image_container>span {
     left: 77px;
   }
   .image2-text2{
-    left: 450px;
+    left: 422px;
+  }
+  .image2-text3{
+    top: 75px;
+    width: 186px;
+    left: 34px;
   }
 }
 /* Extra large devices (large desktops, 1200px and up) */

@@ -6290,8 +6290,6 @@ p.image_container>span {
 
 
   .image5-text3, .image5-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -6317,8 +6315,6 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image6-text1, .image6-text2 {
@@ -6676,8 +6672,6 @@ p.image_container>span {
 
 
   .image5-text3, .image5-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -6703,8 +6697,6 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image6-text1, .image6-text2 {
@@ -7062,8 +7054,6 @@ p.image_container>span {
 
 
   .image5-text3, .image5-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7089,8 +7079,6 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image6-text1, .image6-text2 {
@@ -7445,8 +7433,6 @@ p.image_container>span {
 
 
   .image5-text3, .image5-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7456,6 +7442,10 @@ p.image_container>span {
 
   .image5-text2 {
     left: 385px;
+  }
+
+  .image5-text3, .image5-text4 {
+    top: 100px;
   }
 
   .image5-text3 {
@@ -7472,8 +7462,6 @@ p.image_container>span {
     left: 400px;
     width: 190px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image6-text1, .image6-text2 {
@@ -7818,12 +7806,18 @@ p.image_container>span {
     top: 271px;
   }
 
- {
-    left: 115px;
+  .image5-text1
+  {
+    left: 185px;
   }
+
+ 
 
   .image5-text2 {
     left: 593px;
+  }
+  .image4-text4, .image4-text5 {
+    top: 155px;
   }
 
   .image5-text3 {

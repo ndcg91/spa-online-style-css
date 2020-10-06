@@ -6101,7 +6101,7 @@ p.image_container>span {
 @media (max-width: 575px) {  
   .image_container-1, .image_container-2, .image_container-3, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
-    width: 500px;
+    width: 300px;
     margin: auto;
     display: flex;
     line-height: 1;
@@ -6111,26 +6111,26 @@ p.image_container>span {
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
     font-family: 'Novel Sans Rd Pro';
     font-weight: bold;
-    font-size: 25px;
+    font-size: 15px;
   }
 
   .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
     font-family: 'Novel Sans Rd Pro';
-    font-size: 14px;
+    font-size: 10px;
   }
 
   .image1-text1, .image1-text2 {
-    top: 15px;
-    width: 240px;
+    top: 4px;
+    width: 135px;
   }
 
   .image1-text5, .image1-text6 {
-    top: 240px;
-    width: 240px;
+    top: 145px;
+    width: 140px;
   }
 
   .image1-text2, .image1-text6 {
-    left: 275px;
+    left: 165px;
   }
 
   .image1-text1, .image1-text5 {
@@ -6138,15 +6138,15 @@ p.image_container>span {
   }
 
   .image1-text3, .image1-text4 {
-    left: 226px;
+    left: 140px;
   }
 
   .image1-text3 {
-    top: 100px;
+    top: 57px;
   }
 
   .image1-text4 {
-    top: 171px;
+    top: 103px;
   }
 
   .image1-text7 {

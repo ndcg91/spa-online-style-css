@@ -6498,6 +6498,9 @@ p.image_container>span {
   .image_container-1 span, .image_container-3 span, .image_container-4 span, .image_container-5 span, .image_container-6 span, .image_container-7 span, .image_container-8 span {
     position: absolute;
     text-align: center;
+  }
+
+  .image_container-1 span {
     color: #333;
   }
 
@@ -6894,7 +6897,9 @@ p.image_container>span {
   .image_container-1 span, .image_container-3 span, .image_container-4 span, .image_container-5 span, .image_container-6 span, .image_container-7 span, .image_container-8 span {
     position: absolute;
     text-align: center;
-    color: #333;
+  }
+  .image_container-1 span {
+    color:#333;
   }
 
   .image_container-2 span {

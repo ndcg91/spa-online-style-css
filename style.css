@@ -6467,23 +6467,21 @@ p.image_container>span {
   , .image8-text2 {
     font-family: 'Novel Sans Rd Pro' !important;
     font-weight: bold !important;
-    font-size: 17px !important;
+    font-size: 12px !important;
     top: 20px;
   }
   .image2-text1{
-    left: 41px;
+    left: 55px;
   }
   .image2-text2{
-    left: 272px;
+    left: 292px;
   }
-  .image2-text3
-  , .image2-text10 
-  {
+  .image2-text3, .image2-text10 {
     top: 50px;
   }
   .image2-text3{
-    width: 160px;
-    left: 14px;
+    width: 135px;
+    left: 27px;
   }
   .image2-text4{
     top: 128px;
@@ -6499,22 +6497,22 @@ p.image_container>span {
   }
   .image2-text7{
     top: 241px;
-    left: 114px;
-    width: 70px;
+    left: 119px;
+    width: 90px;
   }
   .image2-text8{
     top: 298px;
-    left: 74px;
-    width: 155px;
+    left: 77px;
+    width: 140px;
   }
   .image2-text9{
     top: 365px;
-    left: 76px;
+    left: 73px;
     width: 130px;
   }
   .image2-text10{
-    left: 269px;
-    width: 165px;
+    left: 272px;
+    width: 150px;
   }
   .image2-text11{
     top: 150px;
@@ -6542,11 +6540,11 @@ p.image_container>span {
   }
 
   .image3-text1 {
-    left: 42px;
+    left: 55px;
   }
 
   .image3-text2 {
-    left: 283px;
+    left: 306px;
   }
 
   .image3-text3 {
@@ -6560,11 +6558,11 @@ p.image_container>span {
 
  
   .image4-text1, .image5-text1, .image6-text1, .image7-text1 {
-    left: 67px;
+    left: 81px;
   }
 
   .image4-text2, .image5-text2, .image6-text2, .image7-text2 {
-    left: 245px;
+    left: 270px;
   }
 
   .image4-text3, .image5-text3, .image6-text3, .image7-text3 {
@@ -6583,6 +6581,11 @@ p.image_container>span {
     width: 135px;
   }
 
+  .image7-text3{
+    left: 56px;
+    width: 125px;
+  }
+
   .image7-text5 {
     left: 115px;
     width: 90px;
@@ -6590,7 +6593,7 @@ p.image_container>span {
   }
 
   .image7-text6 {
-    left: 301px;
+    left: 300px;
     width: 141px;
     top: 162px;
   }
@@ -6600,17 +6603,16 @@ p.image_container>span {
   }
 
   .image8-text1 {
-    left: 35px;
+    left: 52px;
   }
 
   .image8-text2 {
-    left: 260px;
+    left: 276px;
   }
 
   .image8-text3 {
-    
-    left: 26px;
-    width: 130px;
+    left: 56px;
+    width: 125px;
 
   }
 
@@ -6620,7 +6622,7 @@ p.image_container>span {
   }
 
   .image8-text5 {
-    left: 313px;
+    left: 310px;
     width: 150px;
     top: 114px;
   }

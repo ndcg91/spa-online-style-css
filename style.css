@@ -6169,7 +6169,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2, .image5-text1, .image5-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -6286,8 +6286,6 @@ p.image_container>span {
     left: 400px;
     width: 200px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image5-text1, .image5-text2 {
@@ -6483,7 +6481,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span, .image_container-3 span, .image_container-4 span {
+  .image_container-2 span, .image_container-3 span, .image_container-4 span, .image_container-5 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -6561,7 +6559,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2, .image5-text1, .image5-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -6679,8 +6677,6 @@ p.image_container>span {
     left: 400px;
     width: 200px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image5-text1, .image5-text2 {
@@ -6876,7 +6872,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span, .image_container-3 span, .image_container-4 span {
+  .image_container-2 span, .image_container-3 span, .image_container-4 span, .image_container-5 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -6954,7 +6950,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2, .image5-text1, .image5-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -7072,8 +7068,6 @@ p.image_container>span {
     left: 400px;
     width: 200px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image5-text1, .image5-text2 {
@@ -7269,7 +7263,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span, .image_container-3 span, .image_container-4 span {
+  .image_container-2 span, .image_container-3 span, .image_container-4 span, .image_container-5 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -7345,7 +7339,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2, .image5-text1, .image5-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -7462,8 +7456,6 @@ p.image_container>span {
     left: 400px;
     width: 200px;
     top: 170px;
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
   }
 
   .image5-text1, .image5-text2 {
@@ -7659,7 +7651,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span, .image_container-3 span, .image_container-4 span {
+  .image_container-2 span, .image_container-3 span, .image_container-4 span, .image_container-5 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -7821,7 +7813,7 @@ p.image_container>span {
 
 
   .image4-text3, .image4-text4 {
-    top: 153px;
+    top: 155px;
   }
 
   .image4-text1 {
@@ -7833,30 +7825,25 @@ p.image_container>span {
   }
 
   .image4-text3 {
-    left: 90px;
+    left: 157px;
   }
 
   .image4-text4 {
-    left: 400px;
-    width: 200px;
+    left: 573px;
+    width: 300px;
   }
 
   .image4-text5 {
-    left: 420px;
-    width: 200px;
-    top: 190px;
+    left: 648px;
+    top: 271px;
   }
 
   .image5-text1, .image5-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 49px;
+    top: 155px;
   }
 
   .image5-text3, .image5-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
-    top: 120px;
+    top: 200px;
   }
 
   .image5-text1 {
@@ -7864,23 +7851,24 @@ p.image_container>span {
   }
 
   .image5-text2 {
-    left: 385px;
+    left: 593px;
   }
 
   .image5-text3 {
-    left: 90px;
-    width: 170;
+    left: 157px;
+    width: 300px;
   }
 
   .image5-text4 {
-    left: 390px;
-    width: 190px;
+    left: 573px;
+    width: 300px;
   }
 
   .image5-text5 {
-    left: 400px;
-    width: 190px;
-    top: 190px;
+    left: 648px;
+    top: 271px;
+    width: 300px;
+
   }
 
   .image6-text1, .image6-text2 {
@@ -8035,7 +8023,7 @@ p.image_container>span {
     color:#333;
   }
 
-  .image_container-2 span, .image_container-3 span, .image_container-4 span {
+  .image_container-2 span, .image_container-3 span, .image_container-4 span, .image_container-5 span {
     position: absolute;
     font-size: 20px;
     line-height: 30px;

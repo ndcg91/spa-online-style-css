@@ -6516,7 +6516,7 @@ p.image_container>span {
 @media (min-width: 1400px) { 
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
-    width: 700px;
+    width: 1100px;
     margin: auto;
     display: flex;
     line-height: 1;
@@ -6534,12 +6534,12 @@ p.image_container>span {
   }
 
   .image1-text1, .image1-text2 {
-    top: 15px;
+    top: 35px;
     width: 240px;
   }
 
   .image1-text5, .image1-text6 {
-    top: 350px;
+    top: 370px;
     width: 240px;
   }
 
@@ -6557,11 +6557,11 @@ p.image_container>span {
   }
 
   .image1-text3 {
-    top: 135px;
+    top: 125px;
   }
 
   .image1-text4 {
-    top: 240px;
+    top: 260px;
   }
 
   .image1-text7 {
@@ -6571,20 +6571,20 @@ p.image_container>span {
   }
 
   .image1-text8 {
-    top: 480px;
+    top: 500px;
     width: 155px;
     left: 260px;
   }
 
   .image1-text9 {
-    top: 640px;
+    top: 660px;
     width: 155px;
   }
 
   .image2-text1, .image2-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
+    font-size: 26px !important;
+    top: 69px;
   }
   .image2-text1{
     left: 77px;
@@ -6593,59 +6593,59 @@ p.image_container>span {
     left: 409px;
   }
   .image2-text3{
-    top: 75px;
+    top: 95px;
     width: 186px;
     left: 34px;
   }
   .image2-text4{
-    top: 175px;
+    top: 195px;
     left: 135px;
   }
   .image2-text5{
-    top: 230px;
+    top: 250px;
     left: 120px;
   }
   .image2-text6{
-    top: 285px;
+    top: 315px;
     left: 145px;
   }
   .image2-text7{
-    top: 337px;
+    top: 357px;
     left: 170px;
     width: 125px;
   }
   .image2-text8{
-    top: 412px;
+    top: 432px;
     left: 110px;
     width: 200px;
   }
   .image2-text9{
-    top: 505px;
+    top: 525px;
     left: 128px;
     width: 130px;
   }
   .image2-text10{
-    top: 71px;
+    top: 91px;
     left: 409px;
     width: 212px;
   }
   .image2-text11{
-    top: 203px;
+    top: 223px;
     left: 418px;
     width: 190px;
   }
   .image2-text12{
-    top: 295px;
+    top: 315px;
     left: 466px;
     width: 190px;
   }
   .image2-text13{
-    top: 382px;
+    top: 402px;
     left: 505px;
     width: 190px;
   }
   .image2-text14{
-    top: 471px;
+    top: 491px;
     left: 477px;
     width: 190px;
   }
@@ -6653,13 +6653,13 @@ p.image_container>span {
   .image3-text1, .image3-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
-    top: 29px;
+    top: 49px;
   }
 
   .image3-text3, .image3-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
     font-size: 14px !important;
-    top: 100px;
+    top: 120px;
   }
 
   .image3-text1 {
@@ -6682,13 +6682,13 @@ p.image_container>span {
   .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
-    top: 29px;
+    top: 49px;
   }
 
   .image4-text3, .image4-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
     font-size: 14px !important;
-    top: 100px;
+    top: 120px;
   }
 
   .image4-text1 {
@@ -6711,19 +6711,19 @@ p.image_container>span {
   .image4-text5 {
     left: 420px;
     width: 200px;
-    top: 170px;
+    top: 190px;
   }
 
   .image5-text1, .image5-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
-    top: 29px;
+    top: 49px;
   }
 
   .image5-text3, .image5-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
     font-size: 14px !important;
-    top: 100px;
+    top: 120px;
   }
 
   .image5-text1 {
@@ -6747,19 +6747,19 @@ p.image_container>span {
   .image5-text5 {
     left: 400px;
     width: 190px;
-    top: 170px;
+    top: 190px;
   }
 
   .image6-text1, .image6-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
-    top: 29px;
+    top: 49px;
   }
 
   .image6-text3, .image6-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
     font-size: 14px !important;
-    top: 100px;
+    top: 120px;
   }
 
   .image6-text1 {
@@ -6783,13 +6783,13 @@ p.image_container>span {
   .image6-text5 {
     left: 400px;
     width: 190px;
-    top: 170px;
+    top: 190px;
   }
 
   .image7-text1, .image7-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
-    top: 29px;
+    top: 49px;
   }
 
   .image7-text3, .image7-text4, .image7-text5, .image7-text6 {
@@ -6798,7 +6798,7 @@ p.image_container>span {
   }
 
   .image7-text3, .image7-text4{
-    top: 100px;
+    top: 120px;
   }
 
   .image7-text1 {
@@ -6822,13 +6822,13 @@ p.image_container>span {
   .image7-text5 {
     left: 120px;
     width: 190px;
-    top: 190px;
+    top: 210px;
   }
 
   .image7-text6 {
     left: 420px;
     width: 190px;
-    top: 230px;
+    top: 250px;
   }
 
   .image8-text1, .image8-text2 {
@@ -6843,7 +6843,7 @@ p.image_container>span {
   }
 
   .image8-text3, .image8-text4{
-    top: 90px;
+    top: 110px;
   }
 
   .image8-text1 {
@@ -6867,31 +6867,31 @@ p.image_container>span {
   .image8-text5 {
     left: 420px;
     width: 210px;
-    top: 165px;
+    top: 185px;
   }
 
   .image8-text6 {
     left: 470px;
     width: 170px;
-    top: 245px;
+    top: 265px;
   }
 
   .image8-text7 {
     left: 480px;
     width: 190px;
-    top: 305px;
+    top: 325px;
   }
 
   .image8-text8 {
     left: 490px;
     width: 175px;
-    top: 425px;
+    top: 445px;
   }
 
   .image8-text9 {
     left: 470px;
     width: 180px;
-    top: 540px;
+    top: 560px;
   }
 
   .image_container-1 span, .image_container-3 span, .image_container-4 span, .image_container-5 span, .image_container-6 span, .image_container-7 span, .image_container-8 span {

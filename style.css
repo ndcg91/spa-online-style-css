@@ -7780,59 +7780,37 @@ p.image_container>span {
   }
 
 
-  .image4-text3, .image4-text4 {
+  .image4-text3, .image4-text4, .image5-text3, .image5-text4, .image6-text1, .image6-text2 {
     top: 155px;
   }
 
-  .image4-text1 {
+  .image4-text1, .image5-text1, .image6-text1{
     left: 185px;
   }
 
-  .image4-text2 {
+  .image4-text2 , .image5-text2, .image6-text2{
     left: 593px;
   }
 
-  .image4-text3 {
+  .image4-text3 , .image5-text3, .image6-text3{
     left: 157px;
   }
 
-  .image4-text4 {
+  .image4-text4, .image5-text4, .image6-text4 {
     left: 573px;
     width: 300px;
   }
 
-  .image4-text5 {
+  .image4-text5,  .image5-text5 , .image6-text5 {
     left: 648px;
     top: 271px;
   }
 
-  .image5-text1
-  {
-    left: 185px;
-  }
-
- 
-
-  .image5-text2 {
-    left: 593px;
-  }
-  .image5-text3, .image5-text4 {
-    top: 155px;
-  }
-
   .image5-text3 {
-    left: 157px;
-    width: 300px;
-  }
-
-  .image5-text4 {
-    left: 573px;
     width: 300px;
   }
 
   .image5-text5 {
-    left: 648px;
-    top: 271px;
     width: 300px;
   }
 

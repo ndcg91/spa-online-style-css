@@ -7297,30 +7297,30 @@ p.image_container>span {
     font-size: 25px;
   }
 
-  .image1-text3, .image1-text4, .image1-text7, .image1-text8, .image1-text9 {
-    font-family: 'NovelSansRdPro-Regular';
-    font-size: 14px;
-  }
-
-  .image1-text1, .image1-text2 {
+  .image1-text1, 
+  .image1-text2 {
     top: 15px;
     width: 240px;
   }
 
-  .image1-text5, .image1-text6 {
+  .image1-text5, 
+  .image1-text6 {
     top: 350px;
     width: 240px;
   }
 
-  .image1-text2, .image1-text6 {
+  .image1-text2, 
+  .image1-text6 {
     left: 400px;
   }
 
-  .image1-text1, .image1-text5 {
+  .image1-text1, 
+  .image1-text5 {
     left: 70px;
   }
 
-  .image1-text3, .image1-text4 {
+  .image1-text3, 
+  .image1-text4 {
     width: 155px;
     left: 260px;
   }
@@ -7432,9 +7432,8 @@ p.image_container>span {
     width: 190px;
   }
 
-
-
-  .image3-text3, .image3-text4 {
+  .image3-text3, 
+  .image3-text4 {
     top: 100px;
   }
 
@@ -7455,7 +7454,8 @@ p.image_container>span {
     width: 200px;
   }
 
-  .image4-text3, .image4-text4 {
+  .image4-text3, 
+  .image4-text4 {
     top: 100px;
   }
 
@@ -7483,7 +7483,8 @@ p.image_container>span {
   }
 
 
-  .image5-text3, .image5-text4 {
+  .image5-text3, 
+  .image5-text4 {
     top: 100px;
   }
 
@@ -7495,7 +7496,8 @@ p.image_container>span {
     left: 385px;
   }
 
-  .image5-text3, .image5-text4 {
+  .image5-text3, 
+  .image5-text4 {
     top: 100px;
   }
 
@@ -7515,11 +7517,13 @@ p.image_container>span {
     top: 170px;
   }
 
-  .image6-text1, .image6-text2 {
+  .image6-text1, 
+  .image6-text2 {
     top: 29px;
   }
 
-  .image6-text3, .image6-text4 {
+  .image6-text3, 
+  .image6-text4 {
     top: 100px;
   }
 
@@ -7547,11 +7551,13 @@ p.image_container>span {
     top: 170px;
   }
 
-  .image7-text1, .image7-text2 {
+  .image7-text1, 
+  .image7-text2 {
     top: 29px;
   }
 
-  .image7-text3, .image7-text4{
+  .image7-text3, 
+  .image7-text4{
     top: 100px;
   }
 
@@ -7585,15 +7591,13 @@ p.image_container>span {
     top: 230px;
   }
 
-  .image8-text1, .image8-text2 {
+  .image8-text1, 
+  .image8-text2 {
     top: 29px;
   }
 
-  .image8-text3, .image8-text4, .image8-text5, .image8-text6, .image8-text7, .image8-text8, .image8-text9 {
-    font-size: 14px !important;
-  }
-
-  .image8-text3, .image8-text4{
+  .image8-text3, 
+  .image8-text4{
     top: 90px;
   }
 

@@ -6115,7 +6115,7 @@ p.image_container>span {
  
 }
 @media (min-width: 1200px) { 
-  .image-container1, .image_container-2 {
+  .image-container1, .image_container-2, .image-container-3 {
     position: relative;
     width: 700px;
     margin: auto;
@@ -6226,7 +6226,9 @@ p.image_container>span {
     width: 130px;
   }
 
-  .image-container-2 span {
+  
+
+  .image-container-1 span, .image-container-3 span {
     position: absolute;
   }
 

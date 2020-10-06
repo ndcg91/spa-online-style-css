@@ -6169,7 +6169,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -6259,11 +6259,7 @@ p.image_container>span {
     width: 200px;
   }
 
-  .image4-text1, .image4-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
+  
 
   .image4-text3, .image4-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
@@ -6567,7 +6563,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -6659,11 +6655,6 @@ p.image_container>span {
     width: 200px;
   }
 
-  .image4-text1, .image4-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
 
   .image4-text3, .image4-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
@@ -6967,7 +6958,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -7059,11 +7050,6 @@ p.image_container>span {
     width: 200px;
   }
 
-  .image4-text1, .image4-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
-  }
 
   .image4-text3, .image4-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;
@@ -7365,7 +7351,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 17px !important;
     top: 29px;
@@ -7455,12 +7441,6 @@ p.image_container>span {
   .image3-text4 {
     left: 410px;
     width: 200px;
-  }
-
-  .image4-text1, .image4-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 29px;
   }
 
   .image4-text3, .image4-text4 {
@@ -7764,7 +7744,7 @@ p.image_container>span {
     width: 155px;
   }
 
-  .image2-text1, .image2-text2, .image3-text1, .image3-text2 {
+  .image2-text1, .image2-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2, .image3-text1, .image3-text2, .image4-text1, .image4-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;
     font-size: 26px !important;
     top: 44px;
@@ -7847,11 +7827,6 @@ p.image_container>span {
     width: 300px;
   }
 
-  .image4-text1, .image4-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
-    font-size: 17px !important;
-    top: 49px;
-  }
 
   .image4-text3, .image4-text4 {
     font-family: 'NovelSansRdPro-Regular' !important;

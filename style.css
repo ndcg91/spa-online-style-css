@@ -6226,7 +6226,34 @@ p.image_container>span {
     width: 130px;
   }
 
-  
+  .image3-text1, .image3-text2 {
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
+    top: 29px;
+  }
+
+  .image3-text3, .image3-text4 {
+    font-family: 'NovelSansRdPro-Regular' !important;
+    font-size: 14px !important;
+    top: 100px;
+  }
+
+  .image3-text1 {
+    left: 80px;
+  }
+
+  .image3-text2 {
+    left: 430px;
+  }
+
+  .image3-text3 {
+    left: 70px;
+  }
+
+  .image3-text4 {
+    left: 410px;
+    width: 200px;
+  }
 
   .image-container-1 span, .image-container-3 span {
     position: absolute;

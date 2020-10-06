@@ -6115,7 +6115,7 @@ p.image_container>span {
  
 }
 @media (min-width: 1200px) { 
-  .image-container1, .image_container-2, .image-container-3 {
+  .image-container1, .image_container-2, .image-container-3, .image-container-4, .image-container-5, .image-container-6, .image-container-7, .image-container-8 {
     position: relative;
     width: 700px;
     margin: auto;
@@ -6225,7 +6225,6 @@ p.image_container>span {
     left: 128px;
     width: 130px;
   }
-<<<<<<< Updated upstream
 
   .image3-text1, .image3-text2 {
     font-family: 'NovelSansRdPro-SemiBold' !important;

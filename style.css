@@ -6183,20 +6183,47 @@ p.image_container>span {
   }
 
   .image2-text1, .image2-text2 {
-    font-family: 'NovelSansRdPro-SemiBold';
-    font-size: 17px;
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px !important;
     top: 29px;
   }
   .image2-text1{
     left: 77px;
   }
   .image2-text2{
-    left: 422px;
+    left: 409px;
   }
   .image2-text3{
     top: 75px;
     width: 186px;
     left: 34px;
+  }
+  .image2-text4{
+    top: 175px;
+    left: 135px;
+  }
+  .image2-text5{
+    top: 230px;
+    left: 120px;
+  }
+  .image2-text6{
+    top: 285px;
+    left: 145px;
+  }
+  .image2-text7{
+    top: 337px;
+    left: 170px;
+    width: 125px;
+  }
+  .image2-text8{
+    top: 412px;
+    left: 110px;
+    width: 200px;
+  }
+  .image2-text9{
+    top: 505px;
+    left: 128px;
+    width: 130px;
   }
 
   .image-container-2 span {

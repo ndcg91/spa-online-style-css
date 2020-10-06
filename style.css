@@ -6102,7 +6102,7 @@ p.image_container>span {
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {  
-  .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
+  .image_container-1, .image_container-2, .image_container-3, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 500px;
     margin: auto;
@@ -6245,8 +6245,6 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -6497,7 +6495,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span {
+  .image_container-2 span, .image_container-3 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -6651,8 +6649,6 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -6903,7 +6899,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span {
+  .image_container-2 span, .image_container-3 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -7057,8 +7053,6 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7309,7 +7303,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span {
+  .image_container-2 span, .image_container-3 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -7461,8 +7455,6 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 100px;
   }
 
@@ -7713,7 +7705,7 @@ p.image_container>span {
     color: #333;
   }
 
-  .image_container-2 span {
+  .image_container-2 span, .image_container-3 span {
     position: absolute;
     font-size: 14px;
     line-height: 19px;
@@ -7866,8 +7858,6 @@ p.image_container>span {
   }
 
   .image3-text3, .image3-text4 {
-    font-family: 'NovelSansRdPro-Regular' !important;
-    font-size: 14px !important;
     top: 120px;
   }
 
@@ -8111,7 +8101,7 @@ p.image_container>span {
     color:#333;
   }
 
-  .image_container-2 span {
+  .image_container-2 span, .image_container-3 span {
     position: absolute;
     font-size: 20px;
     line-height: 30px;

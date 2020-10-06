@@ -6130,9 +6130,15 @@ p.image_container>span {
   }
   /*Text styles*/
   .image2-text1, .image2-text2 {
-    font-family: 'NovelSansRdPro-SemiBold';
-    top: 40px;
-    font-size: 25px;
+    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-size: 17px;
+    top: 29px;
+  }
+  .image2-text1{
+    left: 77px;
+  }
+  .image2-text2{
+    left: 450px;
   }
 }
 /* Extra large devices (large desktops, 1200px and up) */

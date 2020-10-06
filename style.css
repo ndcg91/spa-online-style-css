@@ -6255,7 +6255,7 @@ p.image_container>span {
     width: 135px;
   }
 
-  .image3-text3, .image3-text4, .image4-text3, .image4-text4, .image5-text3, .image5-text4, .image6-text3, .image6-text4   {
+  .image3-text3, .image3-text4, .image4-text3, .image4-text4, .image5-text3, .image5-text4, .image6-text3, .image6-text4,  .image7-text3, .image7-text4   {
     top: 72px;
   }
 
@@ -6299,12 +6299,6 @@ p.image_container>span {
     left: 273px;
     top: 124px;
     width: 135px;
-  }
-
-
-
-  .image7-text1, .image7-text2 {
-    top: 29px;
   }
 
   .image7-text5 {

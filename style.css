@@ -7165,6 +7165,38 @@ p.image_container>span {
     top: 225px;
   }
 
+  .image_container_nl .image8-text1{
+    left: 70px;
+  }
+  .image_container_nl .image8-text2{
+    left: 419px;
+  }
+  .image_container_nl .image8-text3{
+    left: 60px;
+  }
+  .image_container_nl .image8-text4{
+    left: 408px;
+  }
+  .image_container_nl .image8-text5{ 
+    top: 163px;
+    left: 439px;
+  }
+  .image_container_nl .image8-text6{
+    width: 165px;
+    left: 478px;
+  }
+  .image_container_nl .image8-text7{
+    top: 313px;
+  }
+  .image_container_nl .image8-text8{   
+    width: 155px;
+    top: 434px;
+    left: 505px;
+  }
+  .image_container_nl .image8-text9{
+    left: 475px;
+  }
+
 
   .image_container-1 span {
     color: #333;

@@ -6466,11 +6466,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    position: absolute;
     font-size: 14px;
     line-height: 19px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
   }
 
   
@@ -6844,11 +6841,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    position: absolute;
     font-size: 14px;
     line-height: 19px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
   }
 }
  
@@ -7218,11 +7212,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    position: absolute;
     font-size: 14px;
     line-height: 19px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
   }
 }
 @media (min-width: 1200px) { 
@@ -7605,11 +7596,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    position: absolute;
     font-size: 14px;
     line-height: 19px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
   }
 
 
@@ -7985,11 +7973,21 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    position: absolute;
     font-size: 20px;
     line-height: 30px;
-    text-align: center;
-    font-family: 'Novel Sans Rd Pro';
   }
 
+}
+
+.image_container-2 span
+  , .image_container-3 span
+  , .image_container-4 span
+  , .image_container-5 span
+  , .image_container-6 span
+  , .image_container-7 span
+  , .image_container-8 span
+{
+  text-align: center;
+  font-family: 'Novel Sans Rd Pro';
+  position: absolute;
 }

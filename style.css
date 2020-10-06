@@ -6183,7 +6183,8 @@ p.image_container>span {
   , .image7-text2
   , .image8-text1
   , .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 17px !important;
     top: 29px;
   }
@@ -6557,7 +6558,8 @@ p.image_container>span {
   , .image7-text2
   , .image8-text1
   , .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 17px !important;
     top: 29px;
   }
@@ -6931,7 +6933,8 @@ p.image_container>span {
   , .image7-text2
   , .image8-text1
   , .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 17px !important;
     top: 29px;
   }
@@ -7301,7 +7304,8 @@ p.image_container>span {
   , .image7-text2
   , .image8-text1
   , .image8-text2 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 17px !important;
     top: 29px;
   }
@@ -7663,7 +7667,8 @@ p.image_container>span {
   
   /*Text styles*/
   .image1-text1, .image1-text2, .image1-text5, .image1-text6 {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 35px;
     line-height: 40px;
   }
@@ -7733,7 +7738,8 @@ p.image_container>span {
   , .image8-text1
   , .image8-text2
   {
-    font-family: 'NovelSansRdPro-SemiBold' !important;
+    font-family: 'Novel Sans Rd Pro' !important;
+    font-weight: bold !important;
     font-size: 26px !important;
     top: 44px;
   }

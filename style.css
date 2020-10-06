@@ -6314,57 +6314,60 @@ p.image_container>span {
   }
 
   .image8-text3, .image8-text4{
-    top: 90px;
+    top: 60px;
   }
 
   .image8-text1 {
-    left: 75px;
+    left: 35px;
   }
 
   .image8-text2 {
-    left: 390px;
+    left: 260px;
   }
 
   .image8-text3 {
-    left: 80px;
-    width: 170;
+    
+    left: 26px;
+    width: 130px;
+
   }
 
   .image8-text4 {
-    left: 390px;
-    width: 190px;
+    left: 290px;
+    width: 130px;
   }
 
   .image8-text5 {
-    left: 420px;
-    width: 210px;
-    top: 165px;
+    left: 313px;
+    width: 150px;
+    top: 114px;
   }
 
   .image8-text6 {
-    left: 470px;
-    width: 170px;
-    top: 245px;
+    left: 347px;
+    width: 130px;
+    top: 172px;
   }
 
   .image8-text7 {
-    left: 480px;
-    width: 190px;
-    top: 305px;
+    left: 346px;
+    width: 145px;
+    top: 215px;
   }
 
   .image8-text8 {
-    left: 490px;
-    width: 175px;
-    top: 425px;
+    left: 340px;
+    width: 135px;
+    top: 297px;
   }
 
   .image8-text9 {
-    left: 470px;
-    width: 180px;
-    top: 540px;
+    left: 340px;
+    width: 140px;
+    top: 385px; 
   }
 
+  
 
   .image_container-1 span {
     color: #333;

@@ -7668,6 +7668,23 @@ p.image_container>span {
 .image_container_nl .image2-text8{
   left: 105px;
 }
+.image_container_nl .image2-text10{
+  left: 375px;
+  line-height: 1.4;
+}
+.image_container_nl .image2-text11{
+  left: 416px;
+}
+.image_container_nl .image2-text12{
+  width: 195px;
+  left: 466px;
+}
+.image_container_nl .image2-text13{
+  top: 381px;
+    line-height: 1.09;
+    width: 182px;
+    left: 508px;
+}
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) { 

@@ -8319,10 +8319,16 @@ p.image_container>span {
   }
 
   .image2-text2
-  , .image3-text2
-  , .image8-text2
   {
-    left: 644px;
+    left: 643px;
+  }
+  .image3-text2
+  {
+    left: 675px;
+  }
+  .image8-text2
+  {
+    left: 613px;
   }
   .image2-text3{
     top: 107px;
@@ -8388,12 +8394,12 @@ p.image_container>span {
   }
 
   .image3-text3 {
-    left: 90px;
+    left: 100px;
   }
 
   .image3-text4 {
     left: 625px;
-    width: 300px;
+    width: 285px;
   }
 
 
@@ -8416,7 +8422,7 @@ p.image_container>span {
   , .image6-text1
   , .image7-text1
   {
-    left: 185px;
+    left: 176px;
   }
 
   .image4-text2 
@@ -8430,7 +8436,7 @@ p.image_container>span {
   .image4-text3 
   , .image5-text3
   , .image6-text3{
-    left: 157px;
+    left: 140px;
   }
 
   .image4-text4
@@ -8448,7 +8454,7 @@ p.image_container>span {
   , .image7-text5
 
   {
-    left: 648px;
+    left: 665px;
     top: 271px;
   }
 
@@ -8477,12 +8483,12 @@ p.image_container>span {
   }
 
   .image6-text5 {
-    width: 265px;
+    width: 275px;
   }
 
   .image7-text3 {
     width: 250px;
-    left: 120px;
+    left: 140px;
   }
 
   .image7-text5 {
@@ -8517,8 +8523,8 @@ p.image_container>span {
   }
 
   .image8-text6 {
-    left: 743px;
-    width: 300px;
+    left: 735px;
+    width: 290px;
     top: 378px;
   }
 

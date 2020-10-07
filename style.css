@@ -2483,6 +2483,11 @@ input.back_button:hover {
   padding-top: 20px;
 }
 
+.article_text h1 {
+  font-weight: 900;
+  font-size: 24px;
+}
+
 .article_text h2 {
   font-weight: 900;
   font-size: 24px;

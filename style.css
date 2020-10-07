@@ -6926,8 +6926,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    font-size: 10px;
-    line-height: 14px;
+    font-size: 10px !important;
+    line-height: 14px !important;
   }
 
   
@@ -7537,8 +7537,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    font-size: 12px;
-    line-height: 17px;
+    font-size: 12px !important;
+    line-height: 17px !important;
   }
 }
  
@@ -7971,8 +7971,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    font-size: 12px;
-    line-height: 17px;
+    font-size: 12px !important;
+    line-height: 17px !important;
   }
 }
 @media (min-width: 1200px) and (max-width: 1399px) { 
@@ -8417,8 +8417,8 @@ p.image_container>span {
   , .image_container-7 span
   , .image_container-8 span
   {
-    font-size: 13px;
-    line-height: 18px;
+    font-size: 13px !important;
+    line-height: 18px !important;
   }
 
 
@@ -9019,24 +9019,24 @@ p.image_container>span {
 .image_container_nl .image8-text9{
   left: 735px;
 }
-
+.image_container-2 span
+, .image_container-3 span
+, .image_container-4 span
+, .image_container-5 span
+, .image_container-6 span
+, .image_container-7 span
+, .image_container-8 span
+{
+  font-size: 20px !important;
+  line-height: 30px !important;
+}
 }
 
   .image_container-1 span {
     color:#333;
   }
 
-  .image_container-2 span
-  , .image_container-3 span
-  , .image_container-4 span
-  , .image_container-5 span
-  , .image_container-6 span
-  , .image_container-7 span
-  , .image_container-8 span
-  {
-    font-size: 20px;
-    line-height: 30px;
-  }
+ 
 
 
 .image_container-1 span

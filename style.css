@@ -6381,7 +6381,7 @@ p.image_container>span {
   
 }
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {  
+@media (min-width: 576px) and (max-width: 767px) {  
   .image_container-1, .image_container-2, .image_container-3, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 500px;
@@ -6671,7 +6671,7 @@ p.image_container>span {
 }
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
-@media (min-width: 768px) {  
+@media (min-width: 768px) and (max-width: 991px){  
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 700px;
@@ -7220,7 +7220,7 @@ p.image_container>span {
 }
  
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
+@media (min-width: 992px) and (max-width: 1119px){ 
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 700px;
@@ -7592,7 +7592,7 @@ p.image_container>span {
     line-height: 17px;
   }
 }
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) and (max-width: 1399px){ 
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {
     position: relative;
     width: 700px;

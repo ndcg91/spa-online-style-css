@@ -8762,7 +8762,6 @@ p.image_container>span {
 
   .image4-text5
   , .image5-text5 
-  , .image6-text5
   , .image7-text5
 
   {
@@ -8776,6 +8775,7 @@ p.image_container>span {
 
   .image5-text5 {
     width: 300px;
+    left: 615px;
   }
 
   .image6-text1, .image6-text2 {
@@ -8796,6 +8796,7 @@ p.image_container>span {
 
   .image6-text5 {
     width: 275px;
+    left: 665px;
   }
 
   .image7-text5 {

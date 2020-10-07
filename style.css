@@ -7752,7 +7752,7 @@ p.image_container>span {
     width: 100%;
     margin-bottom: 10px;
     line-height: 2.5;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
   }
 
@@ -7770,16 +7770,24 @@ p.image_container>span {
   .title-box {
     height: 50px;
     background-color: #eb891c;
-    padding: 0px 10px;
-    margin: 5px 5px 25px 5px;
-    border-radius: 10px;
+    margin: 7px 7px 0px 7px;
+    border-radius: 8px;
     line-height: 1.2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .transparency {
+    opacity: 0.8;
   }
 
   .text-box {
     padding-left: 5px;
     padding-right: 5px;
-    padding-bottom: 20px;
+    height: 290px;
+    display: flex;
+    align-items: center;
   }
 
   .image_container-1, .image_container-2, .image_container-3, .image_container-4, .image_container-5, .image_container-6, .image_container-7, .image_container-8 {

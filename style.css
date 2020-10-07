@@ -9052,3 +9052,14 @@ p.image_container>span {
   font-family: 'Novel Sans Rd Pro';
   position: absolute;
 }
+
+.image_container-1 br 
+, .image_container-2 br 
+, .image_container-3 br 
+, .image_container-4 br 
+, .image_container-5 br 
+, .image_container-6 br 
+, .image_container-7 br 
+, .image_container-8 br {
+  line-height:0px;
+}
